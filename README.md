@@ -34,7 +34,8 @@ Hobbies = [
                    Trishul
 
  ```
-
+[![An image of @jatravi's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/jatravi)](https://holopin.io/@jatravi)
+![](https://raw.githubusercontent.com/vn7n24fzkq/jatravi/master/profile-summary-card-output/solarized/0-profile-details.svg)
 
 <div align="center">
 
