@@ -12,12 +12,12 @@
     College = "Abes Engineering College "
     Technology = "🤐"
     Fun_fact = "Yes, I do talk to my code in comments. It's a love language!"
-Hobbies = [
+    Hobbies = [
                 'Problem Solving',
-   'Chilling',
-         'Driving',
-                'Sci-Fi Movies'
-                        ]
+                                   'Chilling',
+                                               'Driving',
+                                                          'Sci-Fi Movies'
+                                                                            ]
 
         def getCity():
                 return Zila_Ghaziabad_India()
