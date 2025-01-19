@@ -19,19 +19,21 @@
                                                           'Sci-Fi Movies'
                                                                             ]
 
-        def getCity():
-                return Zila_Ghaziabad_India()
+    def getCity():
+      return Zila_Ghaziabad_India()
 
-        def Ambitions():
-                BecomeSoftwareEngineer()
+    def Ambitions():
+      BecomeSoftwareEngineer()
 
-        def Achievements():
-               Technical_Coordinator():
-                   Salaah_The_Mentor_Community
-                Development_Coordinator():
-                   CodeChef_ABESEC_Chapter
-                Member():
-                   Trishul
+    def Achievements():
+      Development_Coordinator():
+        CodeChef_ABESEC_Chapter
+      Technical_Coordinator():
+        Salaah_The_Mentor_Community
+      Graphic_Coordinator():
+        Ardema
+      Member():
+        Trishul
 
  ```
 [![An image of @jatravi's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/jatravi)](https://holopin.io/@jatravi)
