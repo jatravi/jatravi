@@ -28,11 +28,11 @@
     def Achievements():
       Development_Coordinator():
         CodeChef_ABESEC_Chapter
-      Technical_Coordinator():
+      Technical_Operations_Coordinator():
         Salaah_The_Mentor_Community
       Graphic_Coordinator():
         Ardema
-      Member():
+      Graphic_Coordinator():
         Trishul
 
  ```
@@ -48,7 +48,7 @@
 </div> 
 
 ## 💻 Tech Stack:
-![C](https://img.shields.io/badge/-C-00599C?style=for-the-badge&logo=c) ![CPP](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=c) ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=for-the-badge&logo=css3) ![Flutter](https://img.shields.io/badge/-Flutter-00599C?style=for-the-badge&logo=flutter) ![Dart](https://img.shields.io/badge/-Dart-00599C?style=for-the-badge&logo=dart) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white) 
+![C](https://img.shields.io/badge/-C-00599C?style=for-the-badge&logo=c) ![CPP](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=c) ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=for-the-badge&logo=css3) ![JS](https://img.shields.io/badge/javascript-%2300000f.svg?style=for-the-badge&logo=javascript&logoColor=white) ![React](https://img.shields.io/badge/react-%2300000f.svg?style=for-the-badge&logo=react&logoColor=white) ![Node.js](https://img.shields.io/badge/-Node.js-E34F26?style=for-the-badge&logo=node.js5&logoColor=white) ![Express.js](https://img.shields.io/badge/-Express.js-00599C?style=for-the-badge&logo=Express.js) ![Flutter](https://img.shields.io/badge/-Flutter-00599C?style=for-the-badge&logo=flutter) ![Dart](https://img.shields.io/badge/-Dart-00599C?style=for-the-badge&logo=dart) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white) 
 
 ## Connect with Me
 
