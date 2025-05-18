@@ -1,5 +1,5 @@
 ![Github Banner](banner.png)
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=jatravi&label=Profile%20views&color=0e75b6&style=flat&base=1000&abbreviated=true" alt="Ravi Choudhary" /> </p>
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=0d8eceF&size=30&center=true&vCenter=true&width=550&height=70&lines=Hey+There,+I'm+Ravi+Choudhary;I+Love+Programming;An+Open+Source+Enthusiast;Front+End+Web+Developer;Loves+To+Build+Projects;A+Problem+Solver;">
 </p>
