@@ -28,11 +28,9 @@
     def Achievements():
       Development_Coordinator():
         CodeChef_ABESEC_Chapter
-      Technical_Operations_Coordinator():
-        Salaah_The_Mentor_Community
-      Graphic_Coordinator():
-        Ardema
-      Graphic_Coordinator():
+      Event_Coordinator():
+        Software_Development_Club
+      Captain_ALPHA_COY.():
         Trishul
 
  ```
