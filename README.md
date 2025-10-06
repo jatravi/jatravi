@@ -26,12 +26,13 @@
       BecomeSoftwareEngineer()
 
     def Achievements():
+      Captain_ALPHA_COY.():
+        Trishul
       Development_Coordinator():
         CodeChef_ABESEC_Chapter
       Event_Coordinator():
         Software_Development_Club
-      Captain_ALPHA_COY.():
-        Trishul
+      
 
  ```
 [![An image of @jatravi's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/jatravi)](https://holopin.io/@jatravi)
