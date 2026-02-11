@@ -44,6 +44,10 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=jatravi&theme=nord_bright&)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=jatravi&theme=vue&hide_border=true)	
  <br/>
+
+ <br clear="both">
+
+<img src="https://raw.githubusercontent.com/jatravi/jatravi/output/snake.svg" alt="Snake animation" />
 </div> 
 
 ## 💻 Tech Stack:
