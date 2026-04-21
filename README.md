@@ -5,36 +5,30 @@
 </p>
 
 
-  ## Who Am I
- ```python
-  class WhoAmI:
-    User = 'Ravi Choudhary'
-    College = "Abes Engineering College "
-    Technology = "🤐"
-    Fun_fact = "Yes, I do talk to my code in comments. It's a love language!"
-    Hobbies = [
-                'Problem Solving',
-                                   'Chilling',
-                                               'Driving',
-                                                          'Sci-Fi Movies'
-                                                                            ]
+ ## 👨‍💻 About Me
 
-    def getCity():
-      return Zila_Ghaziabad_India()
+I’m **Ravi Choudhary**, a B.Tech CSE (AIML) student at ABES Engineering College, actively building my path toward becoming a **Software Engineer**.
 
-    def Ambitions():
-      BecomeSoftwareEngineer()
+Currently, I focus on **Frontend Development, AI-integrated applications, and scalable backend systems**, with hands-on experience in Flutter, React, FastAPI, and Express.js.
 
-    def Achievements():
-      Captain_ALPHA_COY.():
-        Trishul
-      Development_Coordinator():
-        CodeChef_ABESEC_Chapter
-      Event_Coordinator():
-        Software_Development_Club
-      
+I’ve led teams, organized large-scale technical events, and contributed to developer communities — experiences that strengthened my **leadership, execution, and problem-solving skills**.
 
- ```
+### 🚀 What I’m Doing
+- Building AI-powered applications (Resume Builder, Real time Chat Application, voice fraud detection systems)
+- Working on full-stack projects using **React, FastAPI, and Docker**
+- Exploring **open-source contributions (Plone, GSoC track)**
+- Improving DSA and problem-solving for top tech roles
+
+### 🧠 Core Strengths
+- Problem Solving & Logical Thinking  
+- Event Management & Team Leadership  
+- Fast Learning & Adaptability  
+- Strong Communication & Execution  
+
+### 🎯 Current Goal
+To secure a **high-impact Software Engineering role** where I can build scalable products and grow as a developer.
+
+---
 [![An image of @jatravi's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/jatravi)](https://holopin.io/@jatravi)
 
 <div align="center">
